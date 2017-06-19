@@ -6,3 +6,4 @@ This is the repo for my History of Psychology course for the undergraduate stude
 姓名 | 学号
 -----|------
 吕小康 | 009147
+黄妍 | 1512889
