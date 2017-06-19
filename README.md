@@ -8,3 +8,4 @@ This is the repo for my History of Psychology course for the undergraduate stude
 吕小康 | 009147
 白博仁 | 151141
 黄妍 | 1512889
+翟春晖 | 1512882
